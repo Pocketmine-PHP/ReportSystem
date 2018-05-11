@@ -1,0 +1,11 @@
+name: ReportSystem
+version: 1.0
+main: PrinxIsLeqit\Report
+api: 3.0.0-ALPHA12
+author: PrinxIsLeqit
+commands:
+    report:
+        description: ReportCommand
+permission:
+    report.team:
+        default: false
